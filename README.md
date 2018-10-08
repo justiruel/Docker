@@ -68,3 +68,10 @@ docker run --name linku --link sample-mysql:mysql -e DB_HOST=mysql -e DB_DATABAS
 
 note : file yang dirubah lalu container di simpan sebagai image, maka perubahan tetap tersimpan
 ```
+
+
+# To learn
+- Load Balance
+- Kubernet
+- swarm
+- orchestration
