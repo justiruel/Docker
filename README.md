@@ -1,3 +1,4 @@
+### Lumayan lengkap https://www.adiputra.web.id/cara-setting-sederhana-laravel-dan-docker/
 # Dasar Docker 
 - image seperi class, container seperti object, container is instance of image  
 
