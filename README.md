@@ -69,7 +69,16 @@ docker run --name linku --link sample-mysql:mysql -e DB_HOST=mysql -e DB_DATABAS
 note : file yang dirubah lalu container di simpan sebagai image, maka perubahan tetap tersimpan
 ```
 
+# Docker Compose
+## Run docker compose
+```
+docker-compose up
+```
 
+## Run docker compose in background
+```
+docker-compose up -d
+```
 # To learn
 - Load Balance
 - Kubernet
