@@ -75,3 +75,4 @@ note : file yang dirubah lalu container di simpan sebagai image, maka perubahan 
 - Kubernet
 - swarm
 - orchestration
+- graphql
